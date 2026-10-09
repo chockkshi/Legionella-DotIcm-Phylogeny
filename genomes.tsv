@@ -1,0 +1,12 @@
+Species	Strain	Accession	Notes
+Legionella pneumophila	Philadelphia 1	GCF_001941585.1	Reference
+Legionella longbeachae	NSW150	GCF_000091785.1	
+Legionella micdadei		GCF_000953635.1	
+Legionella oakridgensis		GCF_000512355.1	
+Legionella feeleii		GCF_900639755.1	
+Legionella jordanis		GCF_900637635.1	
+Legionella bozemanii		GCF_900450575.1	
+Legionella anisa		GCF_003176875.1	
+Coxiella burnetii	Nine Mile / RSA 493	GCF_000007765.2	Should have Dot/Icm
+Francisella tularensis		GCF_000833355.1	Should lack classic Dot/Icm
+Escherichia coli	K-12 MG1655	GCF_000005845.2	Outgroup

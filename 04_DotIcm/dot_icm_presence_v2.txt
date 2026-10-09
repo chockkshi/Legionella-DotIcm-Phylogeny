@@ -1,0 +1,22 @@
+DATASET_BINARY
+SEPARATOR TAB
+DATASET_LABEL	Dot/Icm presence
+COLOR	#ff0000
+SHOW_LABELS	1
+LABEL_POSITION	top-center
+MARGIN	50
+FIELD_LABELS	dotA	dotB	dotC	dotD	icmL	icmX	icmD	icmE	icmK	icmP	icmO
+FIELD_COLORS	#1f77b4	#aec7e8	#ff7f0e	#ffbb78	#2ca02c	#98df8a	#d62728	#ff9896	#9467bd	#c5b0d5	#8c564b
+FIELD_SHAPES	1	1	1	1	1	1	1	1	1	1	1
+DATA
+Coxiella_burnetii	0	1	1	1	0	0	1	1	1	1	1
+Escherichia_coli	0	0	0	0	0	0	0	0	0	0	0
+Francisella_tularensis	0	0	0	0	0	0	0	0	0	0	0
+Legionella_anisa	1	1	1	1	1	1	1	1	1	1	1
+Legionella_bozemanae	1	1	1	1	1	1	1	1	1	1	1
+Legionella_feeleii	1	1	1	1	1	1	1	1	1	1	1
+Legionella_jordanis	1	1	1	1	1	1	1	1	1	1	1
+Legionella_longbeachae	1	1	1	1	1	1	1	1	1	1	1
+Legionella_micdadei	1	1	1	1	1	1	1	1	1	1	1
+Legionella_oakridgensis	1	1	1	1	1	1	1	1	1	1	1
+Legionella_pneumophila	1	1	1	1	1	1	1	1	1	1	1
