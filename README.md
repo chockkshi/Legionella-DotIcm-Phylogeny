@@ -49,7 +49,3 @@ Is the Dot/Icm secretion system (the molecular “syringe” *Legionella* uses t
 - `03_Tree/PhyML_newick_tree.nhx` — phylogenetic tree
 - `04_DotIcm/` — presence/absence tables and analysis scripts
 - `05_Figures/` — final figure
-
-## Relation to the PhD Project
-
-This mini-project is a small-scale version of the questions addressed in the Uppsala University PhD project on the evolution of host-adaptation in early Gammaproteobacteria. It demonstrates practical experience with phylogenomics, comparative analysis of host-adaptation genes, and transparent reporting of limitations.
